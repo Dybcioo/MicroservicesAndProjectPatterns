@@ -1,1 +1,1 @@
-# MicroservicesAndProjectPatterns
+# Microservices and project patterns
